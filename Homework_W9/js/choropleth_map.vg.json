@@ -4,7 +4,7 @@
 	"height": 600,
 	"padding": { "left": 10, "right": 10 },
 	"data": {
-		"url": "https://raw.githubusercontent.com/rvmeez/Homework-W9/main/Homework_W9/js/ne_110m_admin_0_countries.topojson",
+		"url": "https://raw.githubusercontent.com/rameezim/a2/main/Homework_W9/js/ne_110m_admin_0_countries.topojson",
 		"format": { "type": "topojson", "feature": "ne_110m_admin_0_countries" }
 	},
 	"params": [
@@ -92,7 +92,7 @@
 					"lookup": "properties.NAME_EN",
 					"from": {
 						"data": {
-							"url": "https://raw.githubusercontent.com/rvmeez/Homework-W9/main/Homework_W9/data/covid_10_10_2020.csv"
+							"url": "https://raw.githubusercontent.com/rameezim/a2/main/Homework_W9/data/covid_10_10_2020.csv"
 						},
 						"key": "Country",
 						"fields": ["Confirmed"]
